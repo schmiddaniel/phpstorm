@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="asdf" type="AUTO_DETECTED" />
+      <mapping pattern="dasf" type="AUTO_DETECTED" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="SilverStripe/UserForms/Model/Layout" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.bruckschloegl" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.emw2000" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern="WorkingTimeModelAdmin.php" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="WorkingTimeModelAdmin.php" approved="true" type="PHP" />
+    </extensionMap>
+  </component>
+</application>
